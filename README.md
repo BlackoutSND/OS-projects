@@ -10,6 +10,6 @@ Now a bit about each Project:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        ◦Implementation of 2 addtional scheduling algorithms, namely execution time and age based ones, inside PheonixRTOS, besides preexisting Round-Robin. These new algorithms can be applied to a process via changing its group.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        ◦To test the implementations 3 user programms were added (1 addtional to check whether the Round-Robin works as expected).<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    -Semaphores:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        ◦A Semaphores based simulation of Dumbpling Producer-Consumer relation and interaction. The goal was to properly understand semaphores and how to deal with multithreading and deadlocks.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        ◦A Semaphores based simulation of Dumpling Producer-Consumer relation and interaction. The goal was to properly understand semaphores and how to deal with multithreading and deadlocks.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    -Virtual Disk:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        ◦An attempt to make a Virtual disk with handmade file system. Eventhough, not going to lie, it is quite junky it still works approximately as expected. <Future modifications are planned>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        ◦An attempt to make a Virtual disk with handmade file system. Even though, not going to lie, it is quite junky it still works approximately as expected. <Future modifications are planned>
